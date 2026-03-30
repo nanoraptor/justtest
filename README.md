@@ -1,4 +1,4 @@
-# justtest
+# just-test
 
-First edit on the readme
-random changes ksjlfkja;ldskjf;k xyz
+This is just a test repository for me to practice git and github workflows
+Nothing much
